@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-site/static/css/main.96c0a683.css",
-    "main.js": "/personal-site/static/js/main.e4a48094.js",
+    "main.css": "/personal-site/static/css/main.a929806f.css",
+    "main.js": "/personal-site/static/js/main.7d04734f.js",
     "static/js/787.949ba037.chunk.js": "/personal-site/static/js/787.949ba037.chunk.js",
     "static/media/visualmemory.gif": "/personal-site/static/media/visualmemory.ca8e60b3cdde70b1d461.gif",
     "static/media/Sunset2.jpg": "/personal-site/static/media/Sunset2.6d72fe093e6b8447dbe6.jpg",
@@ -20,12 +20,12 @@
     "static/media/downarrow2.png": "/personal-site/static/media/downarrow2.9edfd30de83ab8492410.png",
     "static/media/undertale.jpg": "/personal-site/static/media/undertale.8283f39ac29bdf4c9304.jpg",
     "index.html": "/personal-site/index.html",
-    "main.96c0a683.css.map": "/personal-site/static/css/main.96c0a683.css.map",
-    "main.e4a48094.js.map": "/personal-site/static/js/main.e4a48094.js.map",
+    "main.a929806f.css.map": "/personal-site/static/css/main.a929806f.css.map",
+    "main.7d04734f.js.map": "/personal-site/static/js/main.7d04734f.js.map",
     "787.949ba037.chunk.js.map": "/personal-site/static/js/787.949ba037.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.96c0a683.css",
-    "static/js/main.e4a48094.js"
+    "static/css/main.a929806f.css",
+    "static/js/main.7d04734f.js"
   ]
 }
