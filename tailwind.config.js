@@ -7,8 +7,7 @@ module.exports = {
   darkmode: 'media',
   theme: {
     extend: {
-      colors: {
-      }
+      backgroundImage: {}
     },
   },
   plugins: [],

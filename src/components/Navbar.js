@@ -8,9 +8,9 @@ function Navbar () {
                         <a href="#about" className='rounded-lg w-full mb-5 w-7/12 p-2 transition duration-150 ease-out hover:ease-in bg-opacity-10 bg-black hover:backdrop-blur-lg 
                             hover:backdrop-filter hover:bg-opacity-30'>About</a>
                         <a href="#" className='rounded-lg w-full mb-5 w-7/12 p-2 transition duration-150 ease-out hover:ease-in bg-opacity-10 bg-black hover:backdrop-blur-lg 
-                            hover:backdrop-filter hover:bg-opacity-30'>Experience</a>
-                        <a href="#projects" className='rounded-lg w-full mb-5 w-7/12 p-2 transition duration-150 ease-out hover:ease-in bg-opacity-10 bg-black hover:backdrop-blur-lg 
                             hover:backdrop-filter hover:bg-opacity-30'>Projects</a>
+                        <a href="#projects" className='rounded-lg w-full mb-5 w-7/12 p-2 transition duration-150 ease-out hover:ease-in bg-opacity-10 bg-black hover:backdrop-blur-lg 
+                            hover:backdrop-filter hover:bg-opacity-30'>Experience</a>
                         <a href="#music" className='rounded-lg w-full mb-5 w-7/12 p-2 transition duration-150 ease-out hover:ease-in bg-opacity-10 bg-black hover:backdrop-blur-lg 
                             hover:backdrop-filter hover:bg-opacity-30 hover:border-white'>Music</a>
                     </div>
