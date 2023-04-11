@@ -22,22 +22,22 @@ function Music () {
                     <div className = 'flex bg-gradient-to-r from-blue-500 to-green-500 rounded-lg p-5 mb-5 shadow-lg'>
                         <div className = 'text-white'>
                             <h1 className='md:text-2xl font-bold'>RECENT POST</h1> 
-                            <h2 className='md:text-l'>Girl Next Door (DELTARUNE Ch 2)</h2>
-                            <p className='md:text-l text-gray-300 italic'>Orchestral/Synth Remix</p>
+                            <h2 className='md:text-l'>Braniac Maniac (Plants vs. Zombies)</h2>
+                            <p className='md:text-l text-gray-300 italic'>Hybrid/Synth Remix</p>
                         </div>
-                        <div className = 'mx-10'>
-                            <YoutubeEmbed embedId = "EHrEX-wvvJk"/>
+                        <div className = 'mx-14'>
+                            <YoutubeEmbed embedId = "FA6iLIg2RqY"/>
                         </div>
                         <div></div>
                     </div>
                     <div className = 'flex bg-gradient-to-r from-rose-500 to-amber-500 rounded-lg p-5 mb-3 shadow-lg'>
                         <div className = 'text-white'>
                             <h1 className='md:text-2xl font-bold'>FEATURED</h1> 
-                            <h2 className='md:text-l'>Fall Asleep on Call - Conner Yin</h2>
-                            <p className='md:text-l text-gray-300 italic'>Original Pop Song</p>
+                            <h2 className='md:text-l'>Conner Yin - Celestial Waltz</h2>
+                            <p className='md:text-l text-gray-300 italic'>Original Piano/Orchestral Song</p>
                         </div>
                         <div className = 'mx-14'>
-                            <YoutubeEmbed embedId = "ofErXCY6kDg"/>
+                            <YoutubeEmbed embedId = "dQbar1lrHrI"/>
                         </div>
                         <div></div>
                     </div>      
