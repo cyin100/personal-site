@@ -16,7 +16,7 @@ function App(){
             <Header />
           </div>
         </div>
-        <div id = "projects" className='bg-gradient-to-r from-blue-100 to-gray-100 rounded-lg py-8'>
+        <div id = "projects" className='bg-gradient-to-r from-blue-200 to-red-100 rounded-lg py-10'>
           <div className='md:w-1/2 mx-auto'>
             <ProjectsMain />
           </div>

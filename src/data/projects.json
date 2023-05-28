@@ -1,23 +1,44 @@
 [
     {
         "id": 1,
-        "title": "Human Benchmark Bot",
-        "description": "Produces scores above human limits on the Human Benchmark Tests (humanbenchmark.com)",
-        "image": "../images/undertale.jpg",
-        "tags": ["python", "webscraping"]
+        "title": "Voluntarius",
+        "description": "Hack for Humanity 2022: Full-stack web and mobile application for connecting volunteers and end-users",
+        "image": "voluntarius",
+        "tags": ["Flutter", "Firebase", "Node.js"],
+        "github": "https://github.com/jordanmosakowski/voluntarius",
+        "devpost": "https://devpost.com/software/redacted-lx52yk"
     },
     {
         "id": 2,
-        "title": "Undertale File Loaders",
-        "description": "Allows users to efficiently load save files from specific spots in UNDERTALE and DELTARUNE",
-        "image": "./images/undertale.jpg",
-        "tags": ["python"]
+        "title": "Human Benchmark Bot",
+        "description": "Webscraping scripts to produce superhuman scores on each of the Human Benchmark tests (humanbenchmark.com)",
+        "image": "humanbenchmark",
+        "tags": ["Python", "Selenium", "PyAutoGUI"],
+        "github": "https://github.com/cyin100/HumanBenchmarkBot"
     },
     {
         "id": 3,
+        "title": "Game Plan",
+        "description": "INRIX Hack 2022 Finalist: Full-stack web and mobile application for generating day trip plans based off time and location",
+        "image": "gameplan",
+        "tags": ["Flutter", "Firebase", "Flask"],
+        "github": "https://github.com/rukasuamarike/game-plan",
+        "devpost": "https://devpost.com/software/gameplan"
+    },
+    {
+        "id": 4,
+        "title": "Undertale File Loaders",
+        "description": "Allows users to efficiently load save files from specific spots in UNDERTALE and DELTARUNE",
+        "image": "undertale",
+        "tags": ["Python"],
+        "github": "https://github.com/cyin100/UndertaleFileLoaders"
+    },
+    {
+        "id": 5,
         "title": "Personal Website",
         "description": "This site! Built from scratch with HTML/CSS/JS using React JS and Tailwind CSS frameworks",
-        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-        "tags": ["React", "Tailwind"]
+        "image": "personalsite",
+        "tags": ["React", "Tailwind"],
+        "github": "https://github.com/cyin100/personal-site"
     }
 ]

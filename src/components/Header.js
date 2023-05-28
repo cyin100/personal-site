@@ -26,7 +26,6 @@ function Header () {
                 <a href = '#projects'></a>
             </div> 
         </div>
-        
     );
   }
   

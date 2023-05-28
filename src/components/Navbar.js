@@ -1,4 +1,3 @@
-
 function Navbar () {
     return (
         <div className="fixed top-0 bg-black w-screen backdrop-filter backdrop-blur-lg bg-opacity-20 border-b border-gray-200 scroll-smooth">
