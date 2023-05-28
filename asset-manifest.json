@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/personal-site/static/css/main.6fcfb988.css",
-    "main.js": "/personal-site/static/js/main.6b3f162f.js",
+    "main.css": "/personal-site/static/css/main.fe6be04d.css",
+    "main.js": "/personal-site/static/js/main.8574853d.js",
     "static/js/787.949ba037.chunk.js": "/personal-site/static/js/787.949ba037.chunk.js",
     "static/media/visualmemory.gif": "/personal-site/static/media/visualmemory.ca8e60b3cdde70b1d461.gif",
-    "static/media/Sunset2.jpg": "/personal-site/static/media/Sunset2.6d72fe093e6b8447dbe6.jpg",
     "static/media/voluntarius.jpg": "/personal-site/static/media/voluntarius.a71f88b966a682acec35.jpg",
     "static/media/personalsite.jpg": "/personal-site/static/media/personalsite.1943d0b18e60f70f423e.jpg",
     "static/media/spotify2.png": "/personal-site/static/media/spotify2.4f757792472d4901835c.png",
@@ -16,18 +15,19 @@
     "static/media/apple.png": "/personal-site/static/media/apple.ac68fc4869e27b599010.png",
     "static/media/github.png": "/personal-site/static/media/github.10dcd90fd7d53ef04287.png",
     "static/media/linkedin.png": "/personal-site/static/media/linkedin.5a490398fd15e3066cc7.png",
+    "static/media/switzerland1.jpg": "/personal-site/static/media/switzerland1.1efd4848e7d6eaab10ba.jpg",
     "static/media/Conner2.jpg": "/personal-site/static/media/Conner2.8abba2034bb16a897493.jpg",
     "static/media/GamePlan.jpg": "/personal-site/static/media/GamePlan.e9150c077c9e0173df13.jpg",
     "static/media/trianglify-lowres.png": "/personal-site/static/media/trianglify-lowres.6a06c9281825ff7942d3.png",
     "static/media/downarrow2.png": "/personal-site/static/media/downarrow2.9edfd30de83ab8492410.png",
     "static/media/undertale.jpg": "/personal-site/static/media/undertale.8283f39ac29bdf4c9304.jpg",
     "index.html": "/personal-site/index.html",
-    "main.6fcfb988.css.map": "/personal-site/static/css/main.6fcfb988.css.map",
-    "main.6b3f162f.js.map": "/personal-site/static/js/main.6b3f162f.js.map",
+    "main.fe6be04d.css.map": "/personal-site/static/css/main.fe6be04d.css.map",
+    "main.8574853d.js.map": "/personal-site/static/js/main.8574853d.js.map",
     "787.949ba037.chunk.js.map": "/personal-site/static/js/787.949ba037.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6fcfb988.css",
-    "static/js/main.6b3f162f.js"
+    "static/css/main.fe6be04d.css",
+    "static/js/main.8574853d.js"
   ]
 }
