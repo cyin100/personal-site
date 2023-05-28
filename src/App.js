@@ -11,7 +11,7 @@ function App(){
         <div>
           <Navbar />
         </div>
-        <div id="about" className = "bg-[url('images\\Sunset2.jpg')] bg-cover bg-center p-20">
+        <div id="about" className = "bg-[url('images\\switzerland1.jpg')] bg-cover bg-center p-20">
           <div className='md:w-1/2 mx-auto'>
             <Header />
           </div>

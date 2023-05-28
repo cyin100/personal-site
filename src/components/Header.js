@@ -1,3 +1,5 @@
+import downArrowImage from '../images/icons/downarrow2.png';
+
 function Header () {
     return (
         <div>
@@ -21,12 +23,17 @@ function Header () {
                         <div></div>
                     </div>
                 </div>
-            </div> 
-            <div id="arrow" className="bg-[url('\\images\\icons\\downarrow2.png')] brightness-100 bg-contain bg-no-repeat bg-center mx-auto p-5 animate-bounce">
-                <a href = '#projects'></a>
-            </div> 
+            </div>
+            <div id="arrow" className="flex justify-center items-center mx-auto animate-bounce">
+                <a href="#projects">
+                    <img src={downArrowImage} alt="Down Arrow" className="h-10 w-10" />
+                </a>
+            </div>
         </div>
     );
   }
   
+// <div id="arrow" className="bg-[url('\\images\\icons\\downarrow2.png')] brightness-100 bg-contain bg-no-repeat bg-center mx-auto p-5 animate-bounce">
+//      <a href = '#projects'></a>
+//  </div> 
   export default Header;
