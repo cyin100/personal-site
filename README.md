@@ -11,7 +11,9 @@ The link for the website can be found [here](https://cyin100.github.io/personal-
 
 ## Updating Live Site
 
-1. Run `npm run deploy` 
+1. Commit to `main` branch 
+2. Run `npm run deploy` 
+3. `gh-pages` branch is generated from `main` branch
 
 ## Acknowledgements
 “Free Black & White Social Media Icons icon pack” by Icons By Alfredo is licensed under CC BY 3.0

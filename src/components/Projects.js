@@ -1,7 +1,18 @@
-import React from 'react';
 import images from '../data/images';
 
-function Project({ project: { title, description, image, github, devpost} }) {
+const tagColors = {
+  'Flutter': 'bg-sky-500',
+  'Firebase': 'bg-orange-600',
+  'Flask': 'bg-yellow-300',
+  'Node.js': 'bg-lime-500', 
+  'Python': 'bg-amber-500',
+  'PyAutoGUI': 'bg-purple-400',
+  'Selenium': 'bg-green-400',
+  'React': 'bg-blue-700',
+  'Tailwind': 'bg-cyan-400'
+}
+
+function Project({ project: { title, description, image, tags, github, devpost} }) {
   let imagePath = images[image]
 
   return (
@@ -16,9 +27,9 @@ function Project({ project: { title, description, image, github, devpost} }) {
                 {devpost && (<a href={devpost} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:underline md:text-m mr-2">DevPost</a>)}
                 <hr></hr>
                 <div className='mt-4 mb-5'>{description}</div>
-                <span className='bg-cyan-400 text-white rounded-lg p-2 w-16 text-center mr-2'>Flutter</span>
-                <span className='bg-orange-600 text-white rounded-lg p-2 w-16 text-center mr-2'>Firebase</span>
-                <span className='bg-yellow-300 text-white rounded-lg p-2 w-16 text-center'>Flask</span>
+                {tags.map((tag, index) => (
+                  <span key={index} className={`${tagColors[tag]} text-white rounded-lg p-2 w-16 text-center mr-2`}>{tag}</span>
+                ))}
               </div>
             </div>
       </div>
