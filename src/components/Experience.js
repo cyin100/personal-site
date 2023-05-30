@@ -13,7 +13,7 @@ const tagColors = {
 }
 
 function Experience({ experience: { title, description, image, tags, github, devpost} }) {
-  let imagePath = images[image]
+  let imagePath = images[image];
 
   return (
     <div>

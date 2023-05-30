@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Voluntarius",
+        "title": "Roche",
         "description": "Hack for Humanity 2022: Full-stack web and mobile application for connecting volunteers and end-users",
         "image": "voluntarius",
         "tags": ["Flutter", "Firebase", "Node.js"],
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "title": "Human Benchmark Bot",
+        "title": "SCU ACM",
         "description": "Webscraping scripts to produce superhuman scores on each of the Human Benchmark tests (humanbenchmark.com)",
         "image": "humanbenchmark",
         "tags": ["Python", "Selenium", "PyAutoGUI"],
@@ -18,7 +18,7 @@
     },
     {
         "id": 3,
-        "title": "Game Plan",
+        "title": "Intel Corporation",
         "description": "INRIX Hack 2022 Finalist: Full-stack web and mobile application for generating day trip plans based off time and location",
         "image": "gameplan",
         "tags": ["Flutter", "Firebase", "Flask"],
@@ -27,7 +27,7 @@
     },
     {
         "id": 4,
-        "title": "Undertale File Loaders",
+        "title": "Applied Computing Foundation",
         "description": "Allows users to efficiently load save files from specific spots in UNDERTALE and DELTARUNE",
         "image": "undertale",
         "tags": ["Python"],
@@ -35,7 +35,23 @@
     },
     {
         "id": 5,
-        "title": "Personal Website",
+        "title": "X-Camp Academy",
+        "description": "This site! Built from scratch with HTML/CSS/JS using React JS and Tailwind CSS frameworks",
+        "image": "personalsite",
+        "tags": ["React", "Tailwind"],
+        "github": "https://github.com/cyin100/personal-site"
+    },
+    {
+        "id": 6,
+        "title": "TeamsCode",
+        "description": "This site! Built from scratch with HTML/CSS/JS using React JS and Tailwind CSS frameworks",
+        "image": "personalsite",
+        "tags": ["React", "Tailwind"],
+        "github": "https://github.com/cyin100/personal-site"
+    },
+    {
+        "id": 7,
+        "title": "STEMBoost",
         "description": "This site! Built from scratch with HTML/CSS/JS using React JS and Tailwind CSS frameworks",
         "image": "personalsite",
         "tags": ["React", "Tailwind"],
