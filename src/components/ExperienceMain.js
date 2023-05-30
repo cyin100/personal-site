@@ -1,22 +1,20 @@
-import Project from './Project';
-import projectsData from '../data/projects.json';
+import Experience from './Experience';
+import experienceData from '../data/experiences.json';
 
-function ProjectsMain () {
+function ExperienceMain() {
     return (
         <div>
             <div className = 'mt-8 bg-gradient-to-r from-pink-500 to-orange-500 flex bg-white w-40 mx-auto mb-5 shadow-md rounded-lg p-3'>
-                <h1 className='md:text-2xl font-bold mx-auto text-white mr-2'>Projects</h1>
+                <h1 className='md:text-2xl font-bold mx-auto text-white mr-2'>Experience</h1>
                 <div className="bg-[url('images\\icons\\github.png')] bg-contain bg-no-repeat bg-center w-full"></div>
             </div>
             <div>
-                {projectsData.map((project) => (
-                    <Project project={project} key={project.id} />
+                {experienceData.map((experience) => (
+                    <Experience experience={experience} key={experience.id} />
                 ))}
             </div>
         </div>
     )
   }
 
-    
-  
-  export default ProjectsMain;
+  export default ExperienceMain;

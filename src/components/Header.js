@@ -32,8 +32,5 @@ function Header () {
         </div>
     );
   }
-  
-// <div id="arrow" className="bg-[url('\\images\\icons\\downarrow2.png')] brightness-100 bg-contain bg-no-repeat bg-center mx-auto p-5 animate-bounce">
-//      <a href = '#projects'></a>
-//  </div> 
+
   export default Header;
