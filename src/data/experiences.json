@@ -2,8 +2,9 @@
     {
         "id": 1,
         "title": "Roche",
-        "description": "Hack for Humanity 2022: Full-stack web and mobile application for connecting volunteers and end-users",
-        "image": "voluntarius",
+        "description": "Placeholder",
+        "image": "roche",
+        "logo": "rochelogo",
         "tags": ["Flutter", "Firebase", "Node.js"],
         "github": "https://github.com/jordanmosakowski/voluntarius",
         "devpost": "https://devpost.com/software/redacted-lx52yk"
@@ -11,16 +12,18 @@
     {
         "id": 2,
         "title": "SCU ACM",
-        "description": "Webscraping scripts to produce superhuman scores on each of the Human Benchmark tests (humanbenchmark.com)",
+        "description": "Placeholder",
         "image": "humanbenchmark",
+        "logo": "acmlogo",
         "tags": ["Python", "Selenium", "PyAutoGUI"],
         "github": "https://github.com/cyin100/HumanBenchmarkBot"
     },
     {
         "id": 3,
         "title": "Intel Corporation",
-        "description": "INRIX Hack 2022 Finalist: Full-stack web and mobile application for generating day trip plans based off time and location",
-        "image": "gameplan",
+        "description": "Placeholder",
+        "image": "intel",
+        "logo": "intellogo",
         "tags": ["Flutter", "Firebase", "Flask"],
         "github": "https://github.com/rukasuamarike/game-plan",
         "devpost": "https://devpost.com/software/gameplan"
@@ -28,32 +31,36 @@
     {
         "id": 4,
         "title": "Applied Computing Foundation",
-        "description": "Allows users to efficiently load save files from specific spots in UNDERTALE and DELTARUNE",
-        "image": "undertale",
+        "description": "Placeholder",
+        "image": "acf",
+        "logo": "acflogo",
         "tags": ["Python"],
         "github": "https://github.com/cyin100/UndertaleFileLoaders"
     },
     {
         "id": 5,
         "title": "X-Camp Academy",
-        "description": "This site! Built from scratch with HTML/CSS/JS using React JS and Tailwind CSS frameworks",
+        "description": "Placeholder",
         "image": "personalsite",
+        "logo": "xcamplogo",
         "tags": ["React", "Tailwind"],
         "github": "https://github.com/cyin100/personal-site"
     },
     {
         "id": 6,
         "title": "TeamsCode",
-        "description": "This site! Built from scratch with HTML/CSS/JS using React JS and Tailwind CSS frameworks",
-        "image": "personalsite",
+        "description": "Placeholder",
+        "image": "tc",
+        "logo": "tclogo",
         "tags": ["React", "Tailwind"],
         "github": "https://github.com/cyin100/personal-site"
     },
     {
         "id": 7,
         "title": "STEMBoost",
-        "description": "This site! Built from scratch with HTML/CSS/JS using React JS and Tailwind CSS frameworks",
-        "image": "personalsite",
+        "description": "Placeholder",
+        "image": "stemboost",
+        "logo": "stemboostlogo",
         "tags": ["React", "Tailwind"],
         "github": "https://github.com/cyin100/personal-site"
     }

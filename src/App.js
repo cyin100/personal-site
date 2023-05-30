@@ -13,10 +13,10 @@ function App(){
         <div id="about" className = "bg-[url('images\\switzerland1.jpg')] bg-cover bg-center p-20">
           <div className='md:w-1/2 mx-auto'><Header /></div>
         </div>
-        <div id = "projects" className='bg-gradient-to-r from-blue-200 to-red-100 rounded-lg py-10'>
+        <div id = "projects" className='bg-gradient-to-b from-red-200 to-blue-300 rounded-lg py-10'>
           <div className='md:w-1/2 mx-auto'><ProjectsMain /></div>
         </div>
-        <div id = "experience" className='bg-gradient-to-r from-blue-200 to-red-100 rounded-lg py-10'>
+        <div id = "experience" className='bg-gradient-to-b from-blue-300 to-lime-300 rounded-lg py-10'>
           <div className='md:w-1/2 mx-auto'><ExperienceMain /></div>
         </div>
         <div id = "music" className="bg-[url('images\\trianglify-lowres.png')] bg-cover py-8">

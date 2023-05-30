@@ -4,6 +4,7 @@
         "title": "Voluntarius",
         "description": "Hack for Humanity 2022: Full-stack web and mobile application for connecting volunteers and end-users",
         "image": "voluntarius",
+        "logo": "voluntariuslogo",
         "tags": ["Flutter", "Firebase", "Node.js"],
         "github": "https://github.com/jordanmosakowski/voluntarius",
         "devpost": "https://devpost.com/software/redacted-lx52yk"
@@ -13,6 +14,7 @@
         "title": "Human Benchmark Bot",
         "description": "Webscraping scripts to produce superhuman scores on each of the Human Benchmark tests (humanbenchmark.com)",
         "image": "humanbenchmark",
+        "logo": "humanbenchmarklogo",
         "tags": ["Python", "Selenium", "PyAutoGUI"],
         "github": "https://github.com/cyin100/HumanBenchmarkBot"
     },
@@ -21,6 +23,7 @@
         "title": "Game Plan",
         "description": "INRIX Hack 2022 Finalist: Full-stack web and mobile application for generating day trip plans based off time and location",
         "image": "gameplan",
+        "logo": "gameplanlogo",
         "tags": ["Flutter", "Firebase", "Flask"],
         "github": "https://github.com/rukasuamarike/game-plan",
         "devpost": "https://devpost.com/software/gameplan"
