@@ -13,7 +13,7 @@
         "id": 2,
         "title": "SCU ACM",
         "description": "Placeholder",
-        "image": "humanbenchmark",
+        "image": "acm",
         "logo": "acmlogo",
         "tags": ["Python", "Selenium", "PyAutoGUI"],
         "github": "https://github.com/cyin100/HumanBenchmarkBot"

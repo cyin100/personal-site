@@ -3,7 +3,7 @@ const fileExtensions = ['jpg', 'png', 'gif'];
 const imageNames = ['voluntarius', 'voluntariuslogo', 'humanbenchmark', 'humanbenchmarklogo', 'gameplan', 'gameplanlogo',
                     'undertale', 'undertalelogo', 'personalsite',
                     'roche', 'rochelogo', 'acm', 'acmlogo', 'intel', 'intellogo', 'acf', 'acflogo', 'xcamp', 'xcamplogo',
-                    'stemboost', 'stemboostlogo'
+                    'tc', 'tclogo', 'stemboost', 'stemboostlogo',
                   ];
 
 
