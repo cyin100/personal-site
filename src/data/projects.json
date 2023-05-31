@@ -47,10 +47,10 @@
     {
         "id": 6,
         "title": "SCU COEN",
-        "description": "Collection of my COEN work at SCU (Data Structures, Embedded Systems, OOP, Machine Learning",
+        "description": "Collection of my COEN work at SCU (Data Structures, Embedded Systems, OOP, Machine Learning)",
         "image": "scu",
         "logo": "sculogo",
         "tags": ["C++", "Python", "ARM Assembly"],
-        "links": {"GitHub": "https://github.com/cyin100/personal-site"}
+        "links": {"GitHub": "https://github.com/cyin100/SCU"}
     }
 ]

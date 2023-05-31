@@ -1,15 +1,19 @@
 import images from '../data/images';
 
 const tagColors = {
-  'Flutter': 'bg-sky-500',
-  'Firebase': 'bg-orange-600',
-  'Flask': 'bg-yellow-300',
-  'Node.js': 'bg-lime-500', 
+  'Cloud': 'bg-cyan-400',
+  'JavaScript': 'bg-yellow-400', 
   'Python': 'bg-amber-500',
-  'PyAutoGUI': 'bg-purple-400',
-  'Selenium': 'bg-green-400',
+  'SQL': 'bg-orange-600',
+  'PHP': 'bg-indigo-500',
+  'Vue': 'bg-emerald-400',
+  'Java Spring': 'bg-lime-400',
+  'MySQL': 'bg-blue-500',
+  'Java': 'bg-red-500',
+  'Teaching': 'bg-green-600',
+  'Leadership': 'bg-pink-500',
+  'Marketing': 'bg-sky-400',
   'React': 'bg-blue-700',
-  'Tailwind': 'bg-cyan-400'
 }
 
 function Experience({ experience: { title, position, description, image, logo, tags, links} }) {
@@ -34,9 +38,9 @@ function Experience({ experience: { title, position, description, image, logo, t
             ))}
           </div>
           <hr></hr>
-          <div className='mt-4 mb-5'>{description}</div>
+          <div className='text-sm mt-4 mb-5'>{description}</div>
           {tags.map((tag, index) => (
-            <span key={index} className={`${tagColors[tag]} text-white rounded-lg p-2 w-16 text-center mr-2`}>{tag}</span>
+            <span key={index} className={`${tagColors[tag]} md:text-xs text-white rounded-lg p-2 w-16 text-center mr-2`}>{tag}</span>
           ))}
         </div>
       </div>

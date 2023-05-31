@@ -7,7 +7,7 @@ function Header () {
                 <span className="bg-[url('images\\Conner2.jpg')] bg-contain bg-no-repeat bg-center mx-auto rounded-full p-20"></span>
             </div>
 
-            <a href="https://drive.google.com/file/d/1OTAM_mxRPQMCXNjg2C8iMs3SNf0wN30K/view?usp=sharing" class="flex w-24 mx-auto bg-transparent border-4 border-white text-white transition duration-150 ease-out hover:ease-in hover:bg-white hover:text-black font-bold py-2 px-4 rounded-md mb-10">
+            <a href="https://drive.google.com/file/d/1OTAM_mxRPQMCXNjg2C8iMs3SNf0wN30K/view?usp=sharing" target="_blank" class="flex w-24 mx-auto bg-transparent border-4 border-white text-white transition duration-150 ease-out hover:ease-in hover:bg-white hover:text-black font-bold py-2 px-4 rounded-md mb-10">
                 Resume
             </a>
 
@@ -17,9 +17,9 @@ function Header () {
                     <p className='mt-4 text-center mb-8'>I'm a software engineer and musician studying Computer Science and Engineering at Santa Clara University. Scroll down to see what I've been up to!</p>
                     <div className = 'grid grid-cols-5 mx-auto'>
                         <div></div>
-                        <a href="https://github.com/cyin100" className="basis-1/6 bg-[url('images\\icons\\github.png')] bg-contain bg-no-repeat bg-center mx-auto rounded-full p-5 transition duration-150 ease-out hover:ease-in hover:animate-pulse"></a>
-                        <a href="https://linkedin.com/in/conneryin" className="basis-1/6 bg-[url('images\\icons\\linkedin.png')] bg-contain bg-no-repeat bg-center mx-auto rounded-full p-5 transition duration-150 ease-out hover:ease-in hover:animate-pulse"></a>
-                        <a href="mailto:conneryin@gmail.com" className="basis-1/6 bg-[url('images\\icons\\mail.png')] bg-contain bg-no-repeat bg-center mx-auto rounded-full p-5 transition duration-150 ease-out hover:ease-in hover:animate-pulse"></a>
+                        <a href="https://github.com/cyin100" target="_blank" className="basis-1/6 bg-[url('images\\icons\\github.png')] bg-contain bg-no-repeat bg-center mx-auto rounded-full p-5 transition duration-150 ease-out hover:ease-in hover:animate-pulse"></a>
+                        <a href="https://linkedin.com/in/conneryin" target="_blank" className="basis-1/6 bg-[url('images\\icons\\linkedin.png')] bg-contain bg-no-repeat bg-center mx-auto rounded-full p-5 transition duration-150 ease-out hover:ease-in hover:animate-pulse"></a>
+                        <a href="mailto:conneryin@gmail.com" target="_blank" className="basis-1/6 bg-[url('images\\icons\\mail.png')] bg-contain bg-no-repeat bg-center mx-auto rounded-full p-5 transition duration-150 ease-out hover:ease-in hover:animate-pulse"></a>
                         <div></div>
                     </div>
                 </div>

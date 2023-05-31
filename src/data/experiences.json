@@ -6,37 +6,37 @@
         "description": "Summer 2023",
         "image": "roche",
         "logo": "rochelogo",
-        "tags": [],
+        "tags": ["Cloud"],
         "links": {"Website": "https://roche.com/"}
     },
     {
         "id": 2,
         "title": "SCU ACM",
         "position": "Workshop/Outreach Coordinator",
-        "description": "Association for Computing Machinery - Taught workshops, plan meetings, organize hackathons",
+        "description": "Association for Computing Machinery: Taught Python, JavaScript, Flask, plan meetings and organize hackathons",
         "image": "acm",
         "logo": "acmlogo",
-        "tags": ["Python", "Selenium", "PyAutoGUI"],
+        "tags": ["Teaching", "Leadership", "Python", "JavaScript"],
         "links": {"Website": "http://acm.engr.scu.edu/#/"}
     },
     {
         "id": 3,
         "title": "Intel",
         "position": "Software Engineering Intern",
-        "description": "",
+        "description": "NAND DTM Capability & Analytics: developed data pipeline editor/asset tracker interface with LAMP Stack, improving data workflow for 100+ engineers",
         "image": "intel",
         "logo": "intellogo",
-        "tags": ["LAMP Stack", "SQL", "Flask"],
+        "tags": ["PHP", "SQL", "JavaScript"],
         "links": {"Website": "https://www.intel.com/"}
     },
     {
         "id": 4,
         "title": "Applied Computing Foundation",
         "position": "Startup Coach/Teacher",
-        "description": "Placeholder",
+        "description": "Mentored a team of high school students to launch a startup product (berribasket.com) by cultivating skills in market research, product design, and website development",
         "image": "acf",
         "logo": "acflogo",
-        "tags": ["Python"],
+        "tags": ["Leadership", "Marketing", "React"],
         "links": {"Website": "https://www.applied-computing.org/"}
     },
     {
@@ -44,7 +44,7 @@
         "title": "X-Camp Academy",
         "position": "Software Developer Intern",
         "description": "Developed Learning Management System (LMS) and managed X-Camp website. Automated homework grading and emails",
-        "image": "personalsite",
+        "image": "xcamp",
         "logo": "xcamplogo",
         "tags": ["Vue", "Java Spring", "MySQL", "Python"],
         "links": {"Website": "https://x-camp.academy/#/"}
@@ -56,7 +56,7 @@
         "description": "Managed 17 organizers to write problems, recruit sponsors, promote and host coding competitions, hosting multiple competitions with 350+ attendees",
         "image": "tc",
         "logo": "tclogo",
-        "tags": ["Organization", "Tailwind"],
+        "tags": ["Leadership", "Marketing", "Java"],
         "links": {"Website": "https://www.teamscode.org/about", "Promo Vid": "https://www.youtube.com/watch?v=DchQGhGNiKk"}
     },
     {
@@ -66,7 +66,7 @@
         "description": "Taught Mental Math, Video Editing, and raised $3,700 to donate to local hospitals through 12-session Java Programming course",
         "image": "stemboost",
         "logo": "stemboostlogo",
-        "tags": ["React", "Tailwind"],
+        "tags": ["Teaching", "Java"],
         "links": {"Website": "https://www.stemboost.org/alumni.html"}
     }
 ]
