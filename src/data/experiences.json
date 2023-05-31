@@ -2,66 +2,71 @@
     {
         "id": 1,
         "title": "Roche",
-        "description": "Placeholder",
+        "position": "Software Engineering Intern",
+        "description": "Summer 2023",
         "image": "roche",
         "logo": "rochelogo",
-        "tags": ["Flutter", "Firebase", "Node.js"],
-        "github": "https://github.com/jordanmosakowski/voluntarius",
-        "devpost": "https://devpost.com/software/redacted-lx52yk"
+        "tags": [],
+        "links": {"Website": "https://roche.com/"}
     },
     {
         "id": 2,
         "title": "SCU ACM",
-        "description": "Placeholder",
+        "position": "Workshop/Outreach Coordinator",
+        "description": "Association for Computing Machinery - Taught workshops, plan meetings, organize hackathons",
         "image": "acm",
         "logo": "acmlogo",
         "tags": ["Python", "Selenium", "PyAutoGUI"],
-        "github": "https://github.com/cyin100/HumanBenchmarkBot"
+        "links": {"Website": "http://acm.engr.scu.edu/#/"}
     },
     {
         "id": 3,
-        "title": "Intel Corporation",
-        "description": "Placeholder",
+        "title": "Intel",
+        "position": "Software Engineering Intern",
+        "description": "",
         "image": "intel",
         "logo": "intellogo",
-        "tags": ["Flutter", "Firebase", "Flask"],
-        "github": "https://github.com/rukasuamarike/game-plan",
-        "devpost": "https://devpost.com/software/gameplan"
+        "tags": ["LAMP Stack", "SQL", "Flask"],
+        "links": {"Website": "https://www.intel.com/"}
     },
     {
         "id": 4,
         "title": "Applied Computing Foundation",
+        "position": "Startup Coach/Teacher",
         "description": "Placeholder",
         "image": "acf",
         "logo": "acflogo",
         "tags": ["Python"],
-        "github": "https://github.com/cyin100/UndertaleFileLoaders"
+        "links": {"Website": "https://www.applied-computing.org/"}
     },
     {
         "id": 5,
         "title": "X-Camp Academy",
-        "description": "Placeholder",
+        "position": "Software Developer Intern",
+        "description": "Developed Learning Management System (LMS) and managed X-Camp website. Automated homework grading and emails",
         "image": "personalsite",
         "logo": "xcamplogo",
-        "tags": ["React", "Tailwind"],
-        "github": "https://github.com/cyin100/personal-site"
+        "tags": ["Vue", "Java Spring", "MySQL", "Python"],
+        "links": {"Website": "https://x-camp.academy/#/"}
     },
     {
         "id": 6,
         "title": "TeamsCode",
-        "description": "Placeholder",
+        "position": "Executive VP",
+        "description": "Managed 17 organizers to write problems, recruit sponsors, promote and host coding competitions, hosting multiple competitions with 350+ attendees",
         "image": "tc",
         "logo": "tclogo",
-        "tags": ["React", "Tailwind"],
-        "github": "https://github.com/cyin100/personal-site"
+        "tags": ["Organization", "Tailwind"],
+        "links": {"Website": "https://www.teamscode.org/about", "Promo Vid": "https://www.youtube.com/watch?v=DchQGhGNiKk"}
     },
     {
         "id": 7,
         "title": "STEMBoost",
-        "description": "Placeholder",
+        "position": "Computer Science Division Head",
+        "description": "Taught Mental Math, Video Editing, and raised $3,700 to donate to local hospitals through 12-session Java Programming course",
         "image": "stemboost",
         "logo": "stemboostlogo",
         "tags": ["React", "Tailwind"],
-        "github": "https://github.com/cyin100/personal-site"
+        "links": {"Website": "https://www.stemboost.org/alumni.html"}
     }
 ]

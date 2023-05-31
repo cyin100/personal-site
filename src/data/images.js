@@ -1,7 +1,7 @@
 const fallbackImage = require('../images/Conner1.jpg');
 const fileExtensions = ['jpg', 'png', 'gif'];
 const imageNames = ['voluntarius', 'voluntariuslogo', 'humanbenchmark', 'humanbenchmarklogo', 'gameplan', 'gameplanlogo',
-                    'undertale', 'undertalelogo', 'personalsite',
+                    'undertale', 'undertalelogo', 'personalsite', 'personalsitelogo', 'scu', 'sculogo',
                     'roche', 'rochelogo', 'acm', 'acmlogo', 'intel', 'intellogo', 'acf', 'acflogo', 'xcamp', 'xcamplogo',
                     'tc', 'tclogo', 'stemboost', 'stemboostlogo',
                   ];

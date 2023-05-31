@@ -12,7 +12,7 @@ const tagColors = {
   'Tailwind': 'bg-cyan-400'
 }
 
-function Experience({ experience: { title, description, image, logo, tags, github, devpost} }) {
+function Experience({ experience: { title, position, description, image, logo, tags, links} }) {
   let imagePath = images[image];
   let logoPath = images[logo];
 
@@ -25,9 +25,13 @@ function Experience({ experience: { title, description, image, logo, tags, githu
         <div className = 'w-2/3 p-5'>
           <div className = 'flex items-center'>
             {logo && (<span style={{backgroundImage: `url(${logoPath})`}} className="bg-contain bg-no-repeat bg-center w-8 h-8 mr-2"></span>)}
-            <span className='md:text-2xl font-bold mr-4'>{title}</span>
-            <a href={github} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:underline md:text-m mr-2">GitHub</a>
-            {devpost && (<a href={devpost} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:underline md:text-m mr-2">DevPost</a>)}
+            <span className='md:text-xl font-bold mr-3'>{title}</span>
+            <span className='md:text-sm text-xs italic mr-4'>{position}</span>
+            {Object.entries(links).map(([linkName, linkURL]) => (
+              <a key={linkName} href={linkURL} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:underline md:text-m mr-2">
+                {linkName}
+              </a>
+            ))}
           </div>
           <hr></hr>
           <div className='mt-4 mb-5'>{description}</div>

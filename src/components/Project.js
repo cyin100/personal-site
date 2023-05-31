@@ -9,10 +9,12 @@ const tagColors = {
   'PyAutoGUI': 'bg-purple-400',
   'Selenium': 'bg-green-400',
   'React': 'bg-blue-700',
-  'Tailwind': 'bg-cyan-400'
+  'Tailwind': 'bg-cyan-400',
+  'C++': 'bg-purple-500',
+  'ARM Assembly': 'bg-gray-600'
 }
 
-function Project({ project: { title, description, image, logo, tags, github, devpost} }) {
+function Project({ project: { title, description, image, logo, tags, links} }) {
   let imagePath = images[image];
   let logoPath = images[logo];
 
@@ -26,13 +28,16 @@ function Project({ project: { title, description, image, logo, tags, github, dev
           <div className = 'flex items-center'>
             {logo && (<span style={{backgroundImage: `url(${logoPath})`}} className="bg-contain bg-no-repeat bg-center w-8 h-8 mr-2"></span>)}
             <span className='md:text-2xl font-bold mr-4'>{title}</span>
-            <a href={github} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:underline md:text-m mr-2">GitHub</a>
-            {devpost && (<a href={devpost} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:underline md:text-m mr-2">DevPost</a>)}
+            {Object.entries(links).map(([linkName, linkURL]) => (
+              <a key={linkName} href={linkURL} target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:underline md:text-m mr-2">
+                {linkName}
+              </a>
+            ))}
           </div>
           <hr></hr>
           <div className='mt-4 mb-5'>{description}</div>
           {tags.map((tag, index) => (
-            <span key={index} className={`${tagColors[tag]} text-white rounded-lg p-2 w-16 text-center mr-2`}>{tag}</span>
+            <span key={index} className={`${tagColors[tag]} md:text-xs text-m text-white rounded-lg p-2 w-16 text-center mr-2`}>{tag}</span>
           ))}
         </div>
       </div>

@@ -2,12 +2,11 @@
     {
         "id": 1,
         "title": "Voluntarius",
-        "description": "Hack for Humanity 2022: Full-stack web and mobile application for connecting volunteers and end-users",
+        "description": "Full-stack web and mobile application for connecting volunteers and end-users (Hack for Humanity 2022)",
         "image": "voluntarius",
         "logo": "voluntariuslogo",
         "tags": ["Flutter", "Firebase", "Node.js"],
-        "github": "https://github.com/jordanmosakowski/voluntarius",
-        "devpost": "https://devpost.com/software/redacted-lx52yk"
+        "links": {"GitHub": "https://github.com/jordanmosakowski/voluntarius", "DevPost": "https://devpost.com/software/redacted-lx52yk"}
     },
     {
         "id": 2,
@@ -16,32 +15,42 @@
         "image": "humanbenchmark",
         "logo": "humanbenchmarklogo",
         "tags": ["Python", "Selenium", "PyAutoGUI"],
-        "github": "https://github.com/cyin100/HumanBenchmarkBot"
+        "links": {"GitHub": "https://github.com/cyin100/HumanBenchmarkBot"}
     },
     {
         "id": 3,
         "title": "Game Plan",
-        "description": "INRIX Hack 2022 Finalist: Full-stack web and mobile application for generating day trip plans based off time and location",
+        "description": "Full-stack web and mobile application for generating day trip plans based off time and location (INRIX Hack 2022 Finalist)",
         "image": "gameplan",
         "logo": "gameplanlogo",
         "tags": ["Flutter", "Firebase", "Flask"],
-        "github": "https://github.com/rukasuamarike/game-plan",
-        "devpost": "https://devpost.com/software/gameplan"
+        "links": {"GitHub": "https://github.com/rukasuamarike/game-plan", "DevPost": "https://devpost.com/software/gameplan"}
     },
     {
         "id": 4,
         "title": "Undertale File Loaders",
-        "description": "Allows users to efficiently load save files from specific spots in UNDERTALE and DELTARUNE",
+        "description": "CLI program to load save files in UNDERTALE/DELTARUNE",
         "image": "undertale",
+        "logo": "undertalelogo",
         "tags": ["Python"],
-        "github": "https://github.com/cyin100/UndertaleFileLoaders"
+        "links": {"GitHub": "https://github.com/cyin100/UndertaleFileLoaders"}
     },
     {
         "id": 5,
-        "title": "Personal Website",
-        "description": "This site! Built from scratch with HTML/CSS/JS using React JS and Tailwind CSS frameworks",
+        "title": "Personal Portfolio Site",
+        "description": "This site! Built from scratch using React and Tailwind CSS",
         "image": "personalsite",
+        "logo": "personalsitelogo",
         "tags": ["React", "Tailwind"],
-        "github": "https://github.com/cyin100/personal-site"
+        "links": {"GitHub": "https://github.com/cyin100/personal-site"}
+    },
+    {
+        "id": 6,
+        "title": "SCU COEN",
+        "description": "Collection of my COEN work at SCU (Data Structures, Embedded Systems, OOP, Machine Learning",
+        "image": "scu",
+        "logo": "sculogo",
+        "tags": ["C++", "Python", "ARM Assembly"],
+        "links": {"GitHub": "https://github.com/cyin100/personal-site"}
     }
 ]
