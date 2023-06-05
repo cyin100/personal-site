@@ -4,10 +4,10 @@ function Header () {
     return (
         <div>
             <div className = "flex bg-white mb-10 shadow-lg rounded-full mx-auto p-4 h-48 w-48">
-                <span className="bg-[url('images\\Conner2.jpg')] bg-contain bg-no-repeat bg-center mx-auto rounded-full p-20"></span>
+                <span className="bg-[url('images\\headshotnew.jpg')] bg-contain bg-no-repeat bg-center mx-auto rounded-full p-20"></span>
             </div>
 
-            <a href="https://drive.google.com/file/d/1OTAM_mxRPQMCXNjg2C8iMs3SNf0wN30K/view?usp=sharing" target="_blank" class="flex w-24 mx-auto bg-transparent border-4 border-white text-white transition duration-150 ease-out hover:ease-in hover:bg-white hover:text-black font-bold py-2 px-4 rounded-md mb-10">
+            <a href="/resume.pdf" target="_blank" class="flex w-24 mx-auto bg-transparent border-4 border-white text-white transition duration-150 ease-out hover:ease-in hover:bg-white hover:text-black font-bold py-2 px-4 rounded-md mb-10">
                 Resume
             </a>
 

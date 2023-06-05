@@ -10,7 +10,7 @@ function App(){
   return(
       <div>
         <Navbar />
-        <div id="about" className = "bg-[url('images\\switzerland1.jpg')] bg-cover bg-center p-20">
+        <div id="about" className = "bg-[url('images\\backgroundnew.jpg')] bg-cover bg-center p-20">
           <div className='md:w-1/2 mx-auto'><Header /></div>
         </div>
         <div id = "projects" className='bg-gradient-to-b from-red-200 to-blue-300 py-10'>
