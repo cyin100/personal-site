@@ -36,9 +36,16 @@ function Project({ project: { title, description, image, logo, tags, links} }) {
           </div>
           <hr></hr>
           <div className='mt-4 mb-5'>{description}</div>
-          {tags.map((tag, index) => (
-            <span key={index} className={`${tagColors[tag]} md:text-xs text-m text-white rounded-lg p-2 w-16 text-center mr-2`}>{tag}</span>
-          ))}
+          <div className='flex flex-wrap'>
+            {tags.map((tag, index) => {
+              let widthClass = 'w-16';
+              if (tag.length >= 8 && tag.length <= 10) widthClass = 'w-20';
+              else if (tag.length > 10) widthClass = 'w-24';
+              return (
+                <span key={index} className={`${tagColors[tag]} md:text-xs text-sm text-white rounded-lg p-2 inline-block text-center mr-2 mb-2 ${widthClass}`}>{tag}</span>
+              );
+            })}
+          </div>
         </div>
       </div>
     </div>

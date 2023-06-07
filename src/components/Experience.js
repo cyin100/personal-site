@@ -27,7 +27,7 @@ function Experience({ experience: { title, position, description, image, logo, t
           <div style={{ backgroundImage: `url(${imagePath})` }} className='bg-contain bg-no-repeat bg-center w-full h-full'></div>
         </div>
         <div className = 'w-2/3 p-5'>
-          <div className = 'flex items-center'>
+          <div className = 'flex items-center overflow-x-auto'>
             {logo && (<span style={{backgroundImage: `url(${logoPath})`}} className="bg-contain bg-no-repeat bg-center w-8 h-8 mr-2"></span>)}
             <span className='md:text-xl font-bold mr-3'>{title}</span>
             <span className='md:text-sm text-xs italic mr-4'>{position}</span>
@@ -39,9 +39,16 @@ function Experience({ experience: { title, position, description, image, logo, t
           </div>
           <hr></hr>
           <div className='text-sm mt-4 mb-5'>{description}</div>
-          {tags.map((tag, index) => (
-            <span key={index} className={`${tagColors[tag]} md:text-xs text-white rounded-lg p-2 w-16 text-center mr-2`}>{tag}</span>
-          ))}
+          <div className='flex flex-wrap'>
+            {tags.map((tag, index) => {
+              let widthClass = 'w-16';
+              if (tag.length >= 8 && tag.length <= 10) widthClass = 'w-20';
+              else if (tag.length > 10) widthClass = 'w-24';
+              return (
+                <span key={index} className={`${tagColors[tag]} md:text-xs text-sm text-white rounded-lg p-2 inline-block text-center mr-2 mb-2 ${widthClass}`}>{tag}</span>
+              );
+            })}
+          </div>
         </div>
       </div>
     </div>
