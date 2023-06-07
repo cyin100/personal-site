@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ec57a8e.css",
-    "main.js": "/static/js/main.2268c8f1.js",
+    "main.css": "/static/css/main.8f346382.css",
+    "main.js": "/static/js/main.9523c6b2.js",
     "static/js/787.949ba037.chunk.js": "/static/js/787.949ba037.chunk.js",
     "static/media/humanbenchmark.gif": "/static/media/humanbenchmark.ca8e60b3cdde70b1d461.gif",
     "static/media/switzerland2.jpg": "/static/media/switzerland2.3dfb978cadc737025871.jpg",
+    "static/media/backgroundnew.jpg": "/static/media/backgroundnew.ebb9397d64ad8f38c565.jpg",
     "static/media/Sunset2.jpg": "/static/media/Sunset2.6d72fe093e6b8447dbe6.jpg",
     "static/media/1813041_logo_media_social_wordpress.png": "/static/media/1813041_logo_media_social_wordpress.1109bfd13aee5fe56e42.png",
     "static/media/734384_media_online_social_dribbble.png": "/static/media/734384_media_online_social_dribbble.9f3291fbbbd5b5b7a406.png",
@@ -63,6 +64,7 @@
     "static/media/734401_online_media_drop_box_social.png": "/static/media/734401_online_media_drop_box_social.91d0051f2a2dd503c674.png",
     "static/media/youtube.png": "/static/media/youtube.f8a49dbd258137f5a4ac.png",
     "static/media/734398_flickr_media_social_online.png": "/static/media/734398_flickr_media_social_online.21a4352cd0d0846d670c.png",
+    "static/media/headshot3.jpg": "/static/media/headshot3.a3483007df2a2672b333.jpg",
     "static/media/734379_skype_media_online_social.png": "/static/media/734379_skype_media_online_social.a1600751eb19c4cfac32.png",
     "static/media/acf.jpg": "/static/media/acf.87cc84ff251c472ddfe9.jpg",
     "static/media/2492622_social_we_chat.png": "/static/media/2492622_social_we_chat.f620cf2251caa379b565.png",
@@ -113,6 +115,7 @@
     "static/media/acm.jpg": "/static/media/acm.8c879471efaed985d4e5.jpg",
     "static/media/switzerland1.jpg": "/static/media/switzerland1.1efd4848e7d6eaab10ba.jpg",
     "static/media/roche.jpg": "/static/media/roche.aded2bbcd0a0603c21c0.jpg",
+    "static/media/headshotnew.jpg": "/static/media/headshotnew.cf7d32758dc7e73bf40c.jpg",
     "static/media/Conner1.jpg": "/static/media/Conner1.581a092afb5914085461.jpg",
     "static/media/Conner2.jpg": "/static/media/Conner2.8abba2034bb16a897493.jpg",
     "static/media/undertale.jpg": "/static/media/undertale.21289d648304183be653.jpg",
@@ -127,12 +130,12 @@
     "static/media/voluntariuslogo.png": "/static/media/voluntariuslogo.594186b35adf8da88895.png",
     "static/media/undertalelogo.jpg": "/static/media/undertalelogo.8283f39ac29bdf4c9304.jpg",
     "index.html": "/index.html",
-    "main.2ec57a8e.css.map": "/static/css/main.2ec57a8e.css.map",
-    "main.2268c8f1.js.map": "/static/js/main.2268c8f1.js.map",
+    "main.8f346382.css.map": "/static/css/main.8f346382.css.map",
+    "main.9523c6b2.js.map": "/static/js/main.9523c6b2.js.map",
     "787.949ba037.chunk.js.map": "/static/js/787.949ba037.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ec57a8e.css",
-    "static/js/main.2268c8f1.js"
+    "static/css/main.8f346382.css",
+    "static/js/main.9523c6b2.js"
   ]
 }
