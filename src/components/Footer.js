@@ -3,8 +3,8 @@ function Footer () {
         <div>
             <div className = 'flex text-gray-500 bg-white w-full shadow-md'>
                 <div className = 'py-2 mx-auto'>
-                    <h1 className='md:text-md text-center'>© 2023 Conner Yin</h1>
-                    <h1 className='md:text-md text-center'>Built from scratch using React and Tailwind CSS</h1>
+                    <div className='md:text-sm text-center'>© 2023 Conner Yin</div>
+                    <div className='md:text-sm text-center'>Built from scratch using React and Tailwind CSS, hosted with GitHub Pages</div>
                 </div>
             </div>       
         </div>
