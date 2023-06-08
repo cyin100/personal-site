@@ -1,7 +1,7 @@
 # Personal Website
 
-Source code for personal website for Conner Yin - built using React JS and Tailwind CSS
-The link for the website can be found [here](https://cyin100.github.io/personal-site)
+Source code for personal website for Conner Yin - built using React JS and Tailwind CSS and hosted using GitHub Pages.  
+The link for the website can be found [here](https://conneryin.com)
 
 ## Local Setup Instructions
 
