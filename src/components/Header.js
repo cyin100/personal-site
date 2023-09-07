@@ -14,7 +14,7 @@ function Header () {
             <div className = 'flex bg-white w-full mb-10 shadow-md rounded-lg overflow-hidden'>
                 <div className = 'px-2 py-5 mx-auto'>
                     <h1 className='md:text-2xl text-center'>Hi, I'm <b>Conner Yin</b>.</h1>
-                    <p className='mt-4 text-center mb-8'>I'm a software engineer and musician studying Computer Science and Engineering at Santa Clara University. Scroll down to see what I've been up to!</p>
+                    <p className='mt-4 text-center mb-8'>I'm an undergraduate student at the Santa Clara University School of Engineering studying computer science and engineering with a minor in mathematics. My current interests lie with full-stack development, devops engineering, and algorithmic problem-solving. I've worked with several companies, teams, and organizations to build applications, automate processes, manage data, and more. Feel free to reach out if you'd like to chat!</p>
                     <div className = 'grid grid-cols-5 mx-auto'>
                         <div></div>
                         <a href="https://github.com/cyin100" target="_blank" className="basis-1/6 bg-[url('images\\icons\\github.png')] bg-contain bg-no-repeat bg-center mx-auto rounded-full p-5 transition duration-150 ease-out hover:ease-in hover:animate-pulse"></a>

@@ -3,21 +3,11 @@
         "id": 1,
         "title": "Roche",
         "position": "Software Engineering Intern",
-        "description": "Summer 2023",
+        "description": "Provider Insights Cloud: Created visualizations to monitor AWS EC2, RDS, S3, Costs, considerably cutting costs for cloud team and streamlining devops workflow",
         "image": "roche",
         "logo": "rochelogo",
         "tags": ["Cloud"],
         "links": {"Website": "https://roche.com/"}
-    },
-    {
-        "id": 2,
-        "title": "SCU ACM",
-        "position": "Workshop/Outreach Coordinator",
-        "description": "Association for Computing Machinery: Taught Python, JavaScript, Flask, plan meetings and organize hackathons",
-        "image": "acm",
-        "logo": "acmlogo",
-        "tags": ["Teaching", "Leadership", "Python", "JavaScript"],
-        "links": {"Website": "http://acm.engr.scu.edu/#/"}
     },
     {
         "id": 3,
@@ -30,16 +20,6 @@
         "links": {"Website": "https://www.intel.com/"}
     },
     {
-        "id": 4,
-        "title": "Applied Computing Foundation",
-        "position": "Startup Coach/Teacher",
-        "description": "Mentored a team of high school students to launch a startup product (berribasket.com) by cultivating skills in market research, product design, and website development",
-        "image": "acf",
-        "logo": "acflogo",
-        "tags": ["Leadership", "Marketing", "React"],
-        "links": {"Website": "https://www.applied-computing.org/"}
-    },
-    {
         "id": 5,
         "title": "X-Camp Academy",
         "position": "Software Developer Intern",
@@ -48,6 +28,26 @@
         "logo": "xcamplogo",
         "tags": ["Vue", "Java Spring", "MySQL", "Python"],
         "links": {"Website": "https://x-camp.academy/#/"}
+    },
+    {
+        "id": 2,
+        "title": "SCU ACM",
+        "position": "Workshop/Outreach Coordinator",
+        "description": "Association for Computing Machinery: Taught Python, JavaScript, Flask, plan meetings and organize hackathons",
+        "image": "acm",
+        "logo": "acmlogo",
+        "tags": ["Teaching", "Leadership", "Python", "JavaScript"],
+        "links": {"Website": "http://acm.engr.scu.edu/#/"}
+    },
+    {
+        "id": 4,
+        "title": "Applied Computing Foundation",
+        "position": "Startup Coach/Teacher",
+        "description": "Mentored a team of high school students to launch a startup product (berribasket.com) by cultivating skills in market research, product design, and website development",
+        "image": "acf",
+        "logo": "acflogo",
+        "tags": ["Leadership", "Marketing", "React"],
+        "links": {"Website": "https://www.applied-computing.org/"}
     },
     {
         "id": 6,
