@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8f346382.css",
-    "main.js": "/static/js/main.9523c6b2.js",
+    "main.js": "/static/js/main.4f94bc10.js",
     "static/js/787.949ba037.chunk.js": "/static/js/787.949ba037.chunk.js",
     "static/media/humanbenchmark.gif": "/static/media/humanbenchmark.ca8e60b3cdde70b1d461.gif",
     "static/media/switzerland2.jpg": "/static/media/switzerland2.3dfb978cadc737025871.jpg",
@@ -32,6 +32,7 @@
     "static/media/734397_google_social_online_plus_media.png": "/static/media/734397_google_social_online_plus_media.2b4fac080b531b0b088b.png",
     "static/media/1407937_media_social_goodreads_logo.png": "/static/media/1407937_media_social_goodreads_logo.1406d3d20c6ffb944009.png",
     "static/media/1221593_media_logo_yelp_social.png": "/static/media/1221593_media_logo_yelp_social.428e11517db4b6d5246b.png",
+    "static/media/roche.jpg": "/static/media/roche.384db67e5dfe0689850a.jpg",
     "static/media/734374_browser_media_online_social_opera.png": "/static/media/734374_browser_media_online_social_opera.e7a15ea1ff88b0c5a794.png",
     "static/media/734371_reddit_social_media_online.png": "/static/media/734371_reddit_social_media_online.ac41cac82ba89dd4ae68.png",
     "static/media/1011336_mail_email_send_message_envelope.png": "/static/media/1011336_mail_email_send_message_envelope.8bd9e78b25f750c33a40.png",
@@ -114,7 +115,6 @@
     "static/media/734386_facebook_online_media_social.png": "/static/media/734386_facebook_online_media_social.cef773f7d3c18320ee7c.png",
     "static/media/acm.jpg": "/static/media/acm.8c879471efaed985d4e5.jpg",
     "static/media/switzerland1.jpg": "/static/media/switzerland1.1efd4848e7d6eaab10ba.jpg",
-    "static/media/roche.jpg": "/static/media/roche.aded2bbcd0a0603c21c0.jpg",
     "static/media/headshotnew.jpg": "/static/media/headshotnew.cf7d32758dc7e73bf40c.jpg",
     "static/media/Conner1.jpg": "/static/media/Conner1.581a092afb5914085461.jpg",
     "static/media/Conner2.jpg": "/static/media/Conner2.8abba2034bb16a897493.jpg",
@@ -131,11 +131,11 @@
     "static/media/undertalelogo.jpg": "/static/media/undertalelogo.8283f39ac29bdf4c9304.jpg",
     "index.html": "/index.html",
     "main.8f346382.css.map": "/static/css/main.8f346382.css.map",
-    "main.9523c6b2.js.map": "/static/js/main.9523c6b2.js.map",
+    "main.4f94bc10.js.map": "/static/js/main.4f94bc10.js.map",
     "787.949ba037.chunk.js.map": "/static/js/787.949ba037.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8f346382.css",
-    "static/js/main.9523c6b2.js"
+    "static/js/main.4f94bc10.js"
   ]
 }
